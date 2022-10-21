@@ -13,7 +13,7 @@ require_once 'database/configDB.php';
 
 $configs = [
     "telegram" => [
-        "token" =>  '5622760229:AAEszpi_qvclwD6VPfL_-man3eZ2YcSMdvU'
+        "token" =>  'API'
     ]
 ];
 
